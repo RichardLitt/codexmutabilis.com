@@ -66,6 +66,36 @@ task :page do
   end
 end # task :page
 
+# Usage: rake check_spelling
+desc "Check for common spelling errors (e.g., 'First Revisor' should be 'First Reviser')"
+task :check_spelling do
+  errors_found = false
+  
+  # Define patterns to check
+  patterns = {
+    'First Revisor' => 'First Reviser'
+  }
+  
+  # Check all markdown files in _posts
+  Dir.glob(File.join(CONFIG['posts'], '*.md')).each do |file|
+    content = File.read(file)
+    
+    patterns.each do |wrong, correct|
+      if content.include?(wrong)
+        puts "❌ Found '#{wrong}' in #{file}"
+        puts "   Should be '#{correct}'"
+        errors_found = true
+      end
+    end
+  end
+  
+  if errors_found
+    abort("\n🚫 Spelling errors found! Please fix them before pushing.")
+  else
+    puts "✅ No spelling errors found!"
+  end
+end
+
 def ask(message, valid_options)
   if valid_options
     answer = get_stdin("#{message} #{valid_options.to_s.gsub(/"/, '').gsub(/, /,'/')} ") while !valid_options.include?(answer)
