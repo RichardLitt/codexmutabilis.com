@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Porrhomma boreale (Banks, 1899) is changed to P. borealis"
+title: "_Porrhomma boreale_ (Banks, 1899) is changed to _P. borealis_"
 description: "Changing a species for grammatical agreement"
 category: substantive
 tags: [substantive, change]
