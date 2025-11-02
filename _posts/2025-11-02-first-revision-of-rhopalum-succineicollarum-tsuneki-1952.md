@@ -6,7 +6,7 @@ category: FR
 tags: [FR, Arthropoda, Insecta, Hymenoptera, Crabronidae, Crabronini]
 date: 2025-11-02-13-40
 public: true
-doi: https://doi.org/10.5281/zenodo.17504394
+doi: https://doi.org/10.5281/zenodo.17504393
 urn: urn:lsid:zoobank.org:pub:7AF7E617-3E3D-45B3-BEA4-81C67A1ED814
 peerreview: false
 author: Richard Littauer # Change this line as soon as there is another author.
@@ -36,4 +36,4 @@ This work was registered in Zoobank. urn:lsid:zoobank.org:pub:7AF7E617-3E3D-45B3
 
 Please cite as:
 
-Littauer, R. (2025). First Reviser for _Rhopalum succineicollarum_ Tsuneki, 1952. _Codex Mutabilis_. [https://doi.org/10.5281/zenodo.17504394](https://doi.org/10.5281/zenodo.17504394)
+Littauer, R. (2025). First Reviser for _Rhopalum succineicollarum_ Tsuneki, 1952. _Codex Mutabilis_. [https://doi.org/10.5281/zenodo.17504393](https://doi.org/10.5281/zenodo.17504393)
