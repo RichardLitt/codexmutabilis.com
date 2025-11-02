@@ -3,9 +3,12 @@ layout: post
 title: "First Reviser for _Rhopalum succineicollarum_ Tsuneki, 1952"
 description: "A First Reviser act"
 category: FR
-tags: [FR]
+tags: [FR, Arthropoda, Insecta, Hymenoptera, Crabronidae, Crabronini]
 date: 2025-11-02-13-40
 public: true
+doi: https://doi.org/10.5281/zenodo.17504394
+urn: urn:lsid:zoobank.org:pub:7AF7E617-3E3D-45B3-BEA4-81C67A1ED814
+peerreview: false
 author: Richard Littauer # Change this line as soon as there is another author.
 ---
 
@@ -28,3 +31,9 @@ If Haneda (2008) proves to have been a First Reviser, this revision is to be con
 ## Registration
 
 This work was registered in Zoobank. urn:lsid:zoobank.org:pub:7AF7E617-3E3D-45B3-BEA4-81C67A1ED814
+
+## Citation
+
+Please cite as:
+
+Littauer, R. (2025). First Reviser for _Rhopalum succineicollarum_ Tsuneki, 1952. _Codex Mutabilis_. [https://doi.org/10.5281/zenodo.17504394](https://doi.org/10.5281/zenodo.17504394)
