@@ -24,3 +24,7 @@ Links:
 ## Registration
 
 This work was registered in Zoobank. urn:lsid:zoobank.org:pub:95BFA464-65DF-4A34-AD7B-3B4E512E9F46
+
+## DOI
+
+[doi:10.5281/zenodo.23413292](https://doi.org/10.5281/zenodo.23413292)
