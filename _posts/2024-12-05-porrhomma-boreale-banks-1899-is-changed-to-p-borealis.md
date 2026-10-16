@@ -19,7 +19,7 @@ Links:
 
 ## References
 
-- Banks, N. (1899a). Arachnida. In: Ashmead, W. H. (ed.) Reports upon the insects, mites and myriapods collected by Dr. L. Stejneger and Mr. G.E.H. Barrett-Hamilton on the Commander Islands. Report of Fur-Seal Investigations, 1896-97, 328-351 (pt. IV, Appendix C, pp. 347-350).
+- Banks, N. (1899). Arachnida. In: Ashmead, W. H. (ed.) Reports upon the insects, mites and myriapods collected by Dr. L. Stejneger and Mr. G.E.H. Barrett-Hamilton on the Commander Islands. Report of Fur-Seal Investigations, 1896-97, 328-351 (pt. IV, Appendix C, pp. 347-350).
 
 ## Registration
 
